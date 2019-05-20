@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+.page-container {
+  padding: 2%;
+}
+
+.title {
+  text-align: center;
+}
+
+.article__header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.article__title {
+  margin-right: 1rem;
+  font-size: 24px;
+  font-weight: bold;
+}
